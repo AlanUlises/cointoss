@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 	int tosses = 0;
 	int i = 0;
 	int aguila = 0;
-	int	sello = 0;
+	int sello = 0;
 
 	tosses = atoi(argv[1]);	
 	srand(time(NULL));
